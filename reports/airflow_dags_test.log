@@ -1,0 +1,5 @@
+2026-10-31T19:21:19.214393Z [info     ] Task instance state updated    [airflow.api_fastapi.execution_api.routes.task_instances] loc=task_instances.py:409 new_state=success rows_affected=1 
+2026-10-31T19:21:24.997256Z [info     ] Task instance state updated    [airflow.api_fastapi.execution_api.routes.task_instances] loc=task_instances.py:409 new_state=success rows_affected=1 
+2026-10-31T19:21:35.417784Z [info     ] Task instance state updated    [airflow.api_fastapi.execution_api.routes.task_instances] loc=task_instances.py:409 new_state=success rows_affected=1 
+2026-10-31T19:21:36.122926Z [info     ] Task instance state updated    [airflow.api_fastapi.execution_api.routes.task_instances] loc=task_instances.py:409 new_state=success rows_affected=1 
+2026-10-31T19:21:36.130983Z [info     ] DagRun Finished: dag_id=tlc_green_monthly, logical_date=2026-11-01 00:00:00+00:00, run_id=manual__2026-10-31T19:21:18.085952+00:00, ... state=success, run_type=

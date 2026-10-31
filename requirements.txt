@@ -1,0 +1,6 @@
+pyspark==3.5.7
+duckdb==1.2.2
+requests
+matplotlib
+pendulum
+pytest
